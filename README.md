@@ -1,6 +1,5 @@
 # Cartesian-plane-Euclidean-Project
-Object Oriented Programming Project
-ABDULFETTAH SANCAKLI
+Object Oriented Programming Project 
 
 When you run the TestClass class, 
 please select the locations folder so that it can read the text document with the dots.
